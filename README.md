@@ -46,6 +46,7 @@ this will work | 这样做行得通
 tips | 小贴士
 create | 创建
 flag | 标记位
+package | 库
 
 ## 保留不译的名词
 
