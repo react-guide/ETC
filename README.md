@@ -114,6 +114,13 @@ git push origin master
 
 To Be Determined
 
+## Collaborator 协作规范
+
+成为 Collaborator 说明自己的能力和贡献被肯定，是很光荣的事情。有直接操作代码库和 Accept 别人 Pull Request 的权限，为了避免错误的操作，因此需要一些规范来约束自己。
+
+* Collaborator 应该是活跃的，遇到 Pull Request 主动 Review，主动参与和发起讨论。
+* 自己发的 Pull Request 虽有合并权限，但需要至少其它一人 Reivew 后才能合并
+
 ## 建议与反馈
 
 欢迎任何建议！直接开一个 github issues 就可以了。
