@@ -50,6 +50,7 @@ package | 库
 hook | 钩子
 component | 组件
 lifecycle | 生命周期
+constant | 常量
 
 ## 保留不译的名词
 
