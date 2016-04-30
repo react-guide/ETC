@@ -125,6 +125,10 @@ To Be Determined
 * Collaborator 应该是活跃的，遇到 Pull Request 主动 Review，主动参与和发起讨论。
 * 自己发的 Pull Request 虽有合并权限，但需要至少其它一人 Reivew 后才能合并
 
+## 小贴士
+
+* [Bing 词典](http://cn.bing.com/dict/) 可以查询相关的翻译
+
 ## 建议与反馈
 
 欢迎任何建议！直接开一个 github issues 就可以了。
