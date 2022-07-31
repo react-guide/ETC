@@ -21,6 +21,26 @@
 * 译完自己读一次，看看像不像中文；
 * 遇到不确定的翻译很正常，请在 Pull Request 里指出，大家一起解决。
 
+## 保留不译的名词
+
+前端开发常用的专有名词，在不造成读者理解困难的情况下，尽量保持原汁原味。
+
+英文  | 说明
+----- | ------
+action | 动作
+hook | 钩子
+dispatch | 发起
+dispatcher | 分发器
+reducer | -
+store | -
+middleware | 中间件
+state | 状态
+state tree | 状态树
+props | 属性
+UI | 用户界面
+monkey patch | -
+currying | 柯里化
+
 ## 约定翻译的名词
 
 为了免除误解，这些词第一次出现时可以用 `（）` 来显示原文。
@@ -31,44 +51,23 @@ plain object | 普通对象
 manage  | 管理
 compose | 组合
 action creator | action 创建函数
-dispatch | 发起
 note | 注意/须知
 hold | 维持
 state shape | state 结构
 handle | 处理
 boilerplate | 样板代码
 normalized | 范式化
-function | 函数？
+function | 函数
 composition | 合成
-helper utility | 辅助工具
 this won’t work | 这样做行不通
 this will work | 这样做行得通
 tips | 小贴士
 create | 创建
 flag | 标记位
 package | 库
-hook | 钩子
 component | 组件
 lifecycle | 生命周期
 constant | 常量
-
-## 保留不译的名词
-
-前端开发常用的专有名词，在不造成读者理解困难的情况下，尽量保持原汁原味。
-
-英文  | 说明
------ | ------
-action | 动作
-reducer | -
-store | -
-middleware | 中间件
-dispatcher | 分发器
-state | 状态
-state tree | 状态树
-props | 属性
-UI | 用户界面
-monkey patch | -
-currying | 柯里化
 
 ## 加入翻译
 
@@ -128,6 +127,7 @@ To Be Determined
 ## 小贴士
 
 * [Bing 词典](http://cn.bing.com/dict/) 可以查询相关的翻译
+* [谷歌翻译](https://translate.google.com/) 对整句处理的较好
 
 ## 建议与反馈
 
