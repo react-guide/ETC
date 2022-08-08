@@ -40,6 +40,8 @@ props | 属性
 UI | 用户界面
 monkey patch | -
 currying | 柯里化
+mutable | 可变
+immutable | 不可变
 
 ## 约定翻译的名词
 
